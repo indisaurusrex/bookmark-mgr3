@@ -15,3 +15,12 @@ Functionality:
 Run "bundle" to install the gems (Sinatra, Capybara, Ruby, Rack).
 
 ![Bookmark Manager domain model](/Users/student/Downloads/Untitled_Diagram.drawio)
+
+rackup -p 3000
+```
+
+To view bookmarks, navigate to `localhost:3000/bookmarks`
+
+### To run tests:
+
+```

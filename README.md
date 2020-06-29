@@ -14,5 +14,5 @@ Functionality:
 
 Run "bundle" to install the gems (Sinatra, Capybara, Ruby, Rack).
 
-![Bookmark Manager domain model](https://drive.google.com/file/d/1vrdEbVaQ-z6Q9XH1ZADI2MBP88hr-X2x/view?usp=sharing)
+![Bookmark Manager domain model](./Users/student/Downloads/Untitled Diagram (1).drawio)
 Format: ![Alt Text](url)

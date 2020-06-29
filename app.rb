@@ -2,7 +2,7 @@ require "sinatra/base"
 
 class BookmarkManager < Sinatra::Base
   get "/" do
-    "Bookmark Manager"
+    "www.google.com"
   end
 
   run! if app_file == $0

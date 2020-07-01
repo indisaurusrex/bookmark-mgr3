@@ -6,6 +6,10 @@ This repository provides a Bookmark Manager with the following user stories:
 As a user
 So that I can quickly access my favourite web pages
 I would like to be able to view my bookmark list.
+
+As a user
+So that I can save my favourite web pages
+I would like to add new bookmarks to my list.
 ```
 
 Functionality:

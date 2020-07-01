@@ -3,3 +3,8 @@
     <li><%= bookmark %></li>
   <% end %>
 </ul>
+<form action="/bookmarks" method="post">
+  <label for="url">Url: </label>
+<input type="text" id="url" name="url"/>
+<input type="submit" value="Add bookmark"/>
+</form>
